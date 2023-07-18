@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serhii-Seliutin
 - 👀 I’m interested in astronomy
 - 🌱 I’m currently learning how to use a large-aperture telescope
-- 💞️ I’m looking to collaborate on video editinbg projects
+- 💞️ I’m looking to collaborate on video editing projects
 - 📫 How to reach me: +37369970115
 
 <!---
